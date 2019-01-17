@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1092855615330",
+    "firebase_url": "https://memories-4f688.firebaseio.com",
+    "project_id": "memories-4f688",
+    "storage_bucket": "memories-4f688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092855615330:android:0ba0e47f7908dfb4",
+        "android_client_info": {
+          "package_name": "com.example.alexandrucristea.memories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092855615330-13iub8fti13laprh0ar012j9pfd5aft2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlGRAWvitqF_D7BHOcph9Zek8lOkYh1Mw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
